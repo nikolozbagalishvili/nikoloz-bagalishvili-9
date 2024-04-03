@@ -1,0 +1,11 @@
+@media (max-width: 376px){
+    .header {
+        padding: 13px 14px;
+    }
+}
+nav {
+    display: none;
+}
+.menu {
+    display: block;
+}
